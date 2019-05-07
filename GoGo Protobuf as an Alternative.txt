@@ -1,0 +1,31 @@
+GoGo Protobuf as an Alternative
+Section 6, Lecture 42
+GoGo:
+
+In the open source world, it is not unusual to see active community members fork a popular project and add features they find the community needs.
+
+One notable project is "gogo", created by Walter Schulze, which aims to provide an alternative at how Protocol Buffers and gRPC are implemented in Go. This different implementation from the one provided by Google has many benefits, mainly around performance and usability, as well as providing more code generation options, which makes this project one of the most important in the protobuf & gRPC ecosystem today. You can find the project alongside its 1800+ stars on GitHub here: https://github.com/gogo/protobufAs per their project:
+
+gogoprotobuf is a fork of golang/protobuf with extra code generation features.
+
+This code generation is used to achieve:
+
+fast marshalling and unmarshalling
+
+more canonical Go structures
+
+goprotobuf compatibility
+
+less typing by optionally generating extra helper code
+
+peace of mind by optionally generating test and benchmark code
+
+other serialization formats
+
+There's a really nice article describing how to get started: https://jbrandhorst.com/post/gogoproto/
+
+This course does not go over how to use this project as the code implementation will be different than Google's, but it is worth mentioning it and having the students investigate it on their own. It is not a guarantee that the two will eventually merge, but many people in the community hope to see a convergence of both the implementation by Google and Gogo some day. Time will tell!
+
+I do not have a specific recommendation for which library to use. I personally use the Google one as it is more widespread, which is the one taught in this section.
+
+Happy learning

@@ -1,0 +1,21 @@
+
+Section 4, Lecture 23
+Please be aware that for the next lectures you need to have Golang programming experience
+
+If you want to follow along with me, please have the following:
+
+- Golang installed: https://golang.org/doc/install
+
+- VSCode Installed
+
+- The VSCode Golang extension:https://code.visualstudio.com/docs/languages/go
+
+- The source code for this project (download / star the project): https://github.com/simplesteph/protobuf-example-go
+
+- Golang packages:
+
+go get -u github.com/golang/protobuf/protoc-gen-go
+go get -u github.com/golang/protobuf/proto
+- Protoc Compiler (see Setting up Protoc Compiler Section)
+
+When you're ready move on to the next lecture!

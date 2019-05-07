@@ -1,0 +1,15 @@
+Practice Exercise Java (self-guided)
+Section 5, Lecture 30
+Self-Guided Exercise
+
+Using this .proto definition: https://github.com/google/protobuf/blob/master/examples/addressbook.proto
+
+Implement a way to read and write Person in the Address Book. 
+
+Use all the learnings from the previous lectures!
+
+When you are ready, the solution will be here: https://developers.google.com/protocol-buffers/docs/javatutorial
+
+And it will be a good time to read the documentation :)
+
+Happy learning!

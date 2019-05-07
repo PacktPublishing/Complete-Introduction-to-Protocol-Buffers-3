@@ -1,0 +1,28 @@
+Bonus Lecture: Coupons for my other courses!
+Section 8, Lecture 48
+Check out my other course with these coupons (in the links)!
+
+Data Engineering:
+gRPC Java Master Class: Build Modern API & Microservices: Say goodbye to REST API & JSON. gRPC is a new framework from Google that will allow you to quickly create powerful strongly typed API. Thanks to Protocol Buffers all the server and client code is generated for you. It's the future of APIs!
+
+Introduction to Apache NiFi: NiFi is really useful in the streaming world to build data pipelines in no-time! It has support for many databases and even Apache Kafka. This revolutionary technology has made it a lot easier to move data in the big data world
+
+Apache Kafka Series:
+Kafka for Beginners: The must-know technology for all your streaming needs. Kafka is a quickly rising technology any engineer should know!
+
+Kafka Connect: Advanced course in the series to learn about the Kafka Connect frameworks, with hands-on exercise to source data from Twitter, and Sink it into ElasticSearch and PostgreSQL!
+
+Kafka Streams for Data Processing: The new fantastic Kafka library that will make all your data streaming and processing look so easy
+
+Kafka Setup and Administration: The only tutorial that will teach you how to setup Kafka on multiple machines in the AWS cloud. This course is for experts and you will become an Apache Kafka master
+
+Confluent Schema Registry & Kafka REST Proxy: The only online course that will teach you all you need to know about Apache Avro, the Confluent Schema Registry and the Kafka REST Proxy
+
+Kafka Security: The only online course that will teach you about Kafka Security, including SSL for Encryption, SSL and SASL for authentication, and ACL for authorization.
+
+AWS Master Class:
+AWS CloudFormation MasterClass: Enhance your AWS Learning with over 3 hours of content, that will fully teach you how to use AWS CloudFormation to deploy your AWS Infrastructure stacks. This class rocks and any AWS professional should master CloudFormation
+
+AWS Lambda and the Serverless Framework: Must do course if you want to learn how to become a Serverless and AWS Lambda developer. Serverless is revolutionizing IT very quickly and becoming a highly valuable skill to land a job!
+
+AWS EC2 Master Class (with Auto Scaling and Load Balancer): Must have course for any AWS professional. You will learn how to properly use and setup your EC2 Instances, AWS Security Groups, New types of Load Balancers, AutoScaling groups and new types of policies, and choose the perfect EC2 instance type for your application

@@ -1,0 +1,17 @@
+VSCode Setup (optional)
+Section 1, Lecture 5
+You are free to use a text editor of your choice, but in this course I will use VSCode. 
+It is not necessary to have the same text editor as me to complete the course. 
+
+If you want to have my setup, follow these instructions. Otherwise see you in the next lecture!
+
+=========== Instructions for VSCode ==========
+
+1. Install VSCode: https://code.visualstudio.com/
+
+2. Install VSCode extensions (https://code.visualstudio.com/docs/editor/extension-gallery#_browse-and-install-extensions):vscode-proto3  & Clang-Format  (if you want to format your files automatically)
+
+3. Install Clang-Format (if you want to format your files automatically):
+
+MacOSX: brew install clang-format 
+Windows / Ubuntu: See http://www.codepool.biz/vscode-format-c-code-windows-linux.html

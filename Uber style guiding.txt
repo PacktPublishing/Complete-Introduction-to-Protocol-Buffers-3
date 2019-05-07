@@ -1,0 +1,7 @@
+
+Section 6, Lecture 34
+Uber has put together an amazing style guidelines
+
+You can find it here (just read through). It's great if you're looking to achieve consistency in how you write your .proto  files
+
+https://github.com/uber/prototool/blob/dev/etc/style/uber/uber.proto

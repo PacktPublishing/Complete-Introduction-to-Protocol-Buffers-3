@@ -1,0 +1,13 @@
+Setup & Code Download
+Section 5, Lecture 24
+Please be aware that for the next lectures you need to have Java programming experience
+
+If you want to follow along with me, please have the following:
+
+- Java 8 JDK : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+- IntelliJ IDEA Community Edition: https://www.jetbrains.com/idea/download/
+
+- The source code for this project (download / star the project): https://github.com/simplesteph/protobuf-example-java
+
+When you're ready move on to the next lecture!

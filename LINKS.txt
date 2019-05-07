@@ -1,0 +1,17 @@
+https://medium.com/@stephane.maarek
+
+https://github.com/simplesteph
+
+https://grpc.io/
+
+https://developers.google.com/protocol-buffers/docs/style
+
+https://github.com/google/protobuf/tree/master/src/google/protobuf
+
+https://github.com/googleapis/googleapis/tree/master/google/type
+
+https://github.com/google/protobuf/tree/master/examples
+
+https://developers.google.com/protocol-buffers/docs/proto3
+
+https://developers.google.com/protocol-buffers/docs/reference/java-generated
