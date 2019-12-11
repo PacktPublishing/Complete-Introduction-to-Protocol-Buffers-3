@@ -4,4 +4,4 @@ Uber has put together an amazing style guidelines
 
 You can find it here (just read through). It's great if you're looking to achieve consistency in how you write your .proto  files
 
-https://github.com/uber/prototool/blob/dev/etc/style/uber/uber.proto
+https://github.com/uber/prototool/blob/dev/etc/style/uber1/uber1.proto
